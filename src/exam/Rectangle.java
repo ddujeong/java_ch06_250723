@@ -17,7 +17,7 @@ public class Rectangle {
 		this.width = width;
 		this.height = height;
 	}
-	double circle = (width*2) + (height*2);
+//	double circle = (width*2) + (height*2);
 	public void cir() {
 		double circle = (width*2) + (height*2);
 		System.out.println(circle);
